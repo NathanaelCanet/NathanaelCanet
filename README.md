@@ -9,8 +9,7 @@
 ## 🧠 Tech Stack
 
 ### 🖥️ Frontend
-- **React**  
-- **Angular**
+![Logo React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)  ![Logo Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png)
 
 ### ⚙️ Backend
 - **Java / Spring Boot**
@@ -19,7 +18,7 @@
 - **SQL**, **PostgreSQL**, **MongoDB**
 
 ### 🧪 Other languages and tools I've explored
-> I’ve experimented with many different technologies — I love learning, testing, breaking things and rebuilding them 🔧
+> I’ve experimented with many different technologies - I love learning, testing, breaking things and rebuilding them 🔧
 
 
 ## ❤️ Interests
@@ -28,7 +27,6 @@
 - ☕ Coffee (way too much)  
 - 📚 Comics  
 
----
 
 ## 🚀 GitHub Goals
 - Build out this fresh GitHub with clean, structured, professional projects  
