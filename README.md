@@ -9,13 +9,27 @@
 ## 🧠 Tech Stack
 
 ### 🖥️ Frontend
-![Logo React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)  ![Logo Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png)
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+</p>
 
 ### ⚙️ Backend
-- **Java / Spring Boot**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/>
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+</p>
 
 ### 🗄️ Databases
-- **SQL**, **PostgreSQL**, **MongoDB**
+<p>
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+</p>
 
 ### 🧪 Other languages and tools I've explored
 > I’ve experimented with many different technologies - I love learning, testing, breaking things and rebuilding them 🔧
