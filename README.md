@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Nate
 
-🎓 **Software Engineer Student – 3rd year Bachelor**  
-🎯 Goal: **Master’s degree in Data & Artificial Intelligence**  
-🌱 I **restarted my GitHub from scratch in November 2025**, so if it looks a bit empty… that’s normal 👀  
-💻 Environment: **Linux (i use Arch btw 😎)** & **Windows**
+- 🎓 **Software Engineer Student – 3rd year Bachelor**  
+- 🎯 Goal: **Master’s degree in Data & Artificial Intelligence**  
+- 🌱 I **restarted my GitHub from scratch in November 2025**, so if it looks a bit empty… that’s normal 👀  
+- 💻 Environment: **Linux (i use Arch btw 😎)** & **Windows**
 
 
 ## 🧠 Tech Stack
@@ -32,7 +32,7 @@
 </p>
 
 ### 🧪 Other languages and tools I've explored
-> I’ve experimented with many different technologies - I love learning, testing, breaking things and rebuilding them 🔧
+> I’ve experimented with many different technologies - I love learning, testing, breaking things and rebuilding them !
 
 
 ## ❤️ Interests
