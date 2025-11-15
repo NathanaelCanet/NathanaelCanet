@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey there, I'm Nate
 
-<!--
-**NathanaelCanet/NathanaelCanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer Student – 3rd year Bachelor**  
+🎯 Goal: **Master’s degree in Data & Artificial Intelligence**  
+🌱 I **restarted my GitHub from scratch in November 2025**, so if it looks a bit empty… that’s normal 👀  
+💻 Environment: **Linux (i use Arch btw 😎)** & **Windows**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+### 🖥️ Frontend
+- **React**  
+- **Angular**
+
+### ⚙️ Backend
+- **Java / Spring Boot**
+
+### 🗄️ Databases
+- **SQL**, **PostgreSQL**, **MongoDB**
+
+### 🧪 Other languages and tools I've explored
+> I’ve experimented with many different technologies — I love learning, testing, breaking things and rebuilding them 🔧
+
+---
+
+## ❤️ Interests
+- 🏋️‍♂️ Sports  
+- 🔥 Pokémon cards  
+- ☕ Coffee (way too much)  
+- 📚 Comics  
+
+---
+
+## 🚀 GitHub Goals
+- Build out this fresh GitHub with clean, structured, professional projects  
+- Progress toward my **Master’s in Data & AI**  
+- Document my learning journey and personal projects  
