@@ -29,7 +29,6 @@
 <p>
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 </p>
 
 ### 🧪 Other languages and tools I've explored
