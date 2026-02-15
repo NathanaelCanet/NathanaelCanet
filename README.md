@@ -39,9 +39,3 @@
 - [ ] Build out a repository of clean, professional, and well-documented projects.
 - [ ] Transition into advanced **Data Science & AI** implementations.
 - [ ] Document my daily learning journey to help others in the community.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Nate's GitHub Stats" />
-</div>
