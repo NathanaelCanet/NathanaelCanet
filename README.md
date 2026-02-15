@@ -1,47 +1,47 @@
+<div align="center">
+
 # 👋 Hey there, I'm Nate
+> **I love learning, testing, breaking things, and rebuilding them!**
 
-- 🎓 **Software Engineer Student – 3rd year Bachelor**  
-- 🎯 Goal: **Master’s degree in Data & Artificial Intelligence**  
-- 💻 Environment: **Linux** & **Windows**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathanaelcanet)
 
+</div>
 
-## 🧠 Tech Stack
+---
 
-### 🖥️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
-</p>
+### 🎓 About Me
+- 👨‍💻 **Software Engineer Student** | 3rd Year Bachelor
+- 🎯 **Goal:** Master’s degree in **Data & Artificial Intelligence**
+- 🐧 **Environment:** Power user of both **Linux** & **Windows**
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-</p>
+---
 
-### 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-</p>
+### 🧠 Tech Stack
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Database** | ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
-### 🧪 Other languages and tools I've explored
-> I’ve experimented with many different technologies - I love learning, testing, breaking things and rebuilding them !
+---
 
+### ❤️ Interests & Beyond
+- 🏋️‍♂️ **Sports:** Keeping the body as active as the brain.
+- 🔥 **Pokémon:** Card collector & strategist.
+- ☕ **Coffee:** Powered by way too many espressos.
+- 📚 **Comics:** Exploring visual storytelling.
 
-## ❤️ Interests
-- 🏋️‍♂️ Sports  
-- 🔥 Pokémon cards  
-- ☕ Coffee (way too much)  
-- 📚 Comics  
+---
 
+### 🚀 GitHub Roadmap
+- [ ] Build out a repository of clean, professional, and well-documented projects.
+- [ ] Transition into advanced **Data Science & AI** implementations.
+- [ ] Document my daily learning journey to help others in the community.
 
-## 🚀 GitHub Goals
-- Build out this GitHub with clean, structured, professional projects  
-- Progress toward my **Master’s in Data & AI**  
-- Document my learning journey and personal projects  
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Nate's GitHub Stats" />
+</div>
