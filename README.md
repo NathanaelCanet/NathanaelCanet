@@ -1,41 +1,121 @@
+<h1 align="center">Hey there, I'm Nate 👋</h1>
+
+<h3 align="center">Computer Science Enjoyer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathanaelcanet">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB3BA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-FFDFBA?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/DQv0TCvjLklB6/giphy.gif" width="320" />
+</p>
+
+<br />
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3rd%20Year%20Bachelor-FFB3BA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next-Master's%20in%20Data%20%26%20AI-D4A5E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Motto-Learn.%20Break.%20Rebuild.-BAFFC9?style=flat-square" />
+</p>
+
+<p align="center">
+  <i>💡 "The best way to predict the future is to invent it." — Alan Kay</i>
+</p>
+
+<br />
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-BAE1FF?style=for-the-badge&logo=react&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/Vite-D4A5E8?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-BAE1FF?style=for-the-badge&logo=typescript&logoColor=20232a" />
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-BAFFC9?style=for-the-badge&logo=springboot&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/Express-FFDFBA?style=for-the-badge&logo=express&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-BAE1FF?style=for-the-badge&logo=postgresql&logoColor=20232a" />
+</p>
+
+<h4 align="center">Mobile</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-FFB3BA?style=for-the-badge&logo=react&logoColor=20232a" />
+</p>
+
+<h4 align="center">Tools & Env</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-D4A5E8?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FFDFBA?style=for-the-badge&logo=linux&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/Windows-BAE1FF?style=for-the-badge&logo=windows&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/Git-FFB3BA?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br />
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanaelcanet&show_icons=true&hide_border=true&title_color=D4A5E8&icon_color=FFB3BA&text_color=6B5B73&bg_color=FFF5F7" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelcanet&layout=compact&hide_border=true&title_color=D4A5E8&text_color=6B5B73&bg_color=FFF5F7" height="170" />
+</p>
+
+<br />
+
+<h2 align="center">🌍 Beyond the Code</h2>
+
 <div align="center">
-
-# 👋 Hey there, I'm Nate
-> **I love learning, testing, breaking things, and rebuilding them!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathanaelcanet)
-
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🏃‍♂️</h3>
+        <b>Running & Lifting</b><br />
+        <sub>Balancing keyboard time with cardio and iron 💪</sub>
+      </td>
+      <td width="33%" align="center">
+        <h3>✈️</h3>
+        <b>Traveling</b><br />
+        <sub>Passport stamps & street food memories</sub>
+      </td>
+      <td width="33%" align="center">
+        <h3>🍳</h3>
+        <b>Cooking</b><br />
+        <sub>Recipes are just programs you can eat 🤌</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🎬</h3>
+        <b>Movies & Series</b><br />
+        <sub>Probably watching something right now</sub>
+      </td>
+      <td width="33%" align="center">
+        <h3>📚</h3>
+        <b>Comics</b><br />
+        <sub>Marvel, DC, and the indie scene 🦸‍♂️</sub>
+      </td>
+      <td width="33%" align="center">
+        <h3>☕</h3>
+        <b>Espresso Addict</b><br />
+        <sub>Running on caffeine since semester 1</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br />
 
-### 🎓 About Me
-- 👨‍💻 **Software Engineer Student** | 3rd Year Bachelor
-- 🎯 **Goal:** Master’s degree in **Data & Artificial Intelligence**
-- 🐧 **Environment:** Power user of both **Linux** & **Windows**
+<h2 align="center">🚧 Currently Building</h2>
 
----
-
-### 🧠 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Database** | ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-
----
-
-### ❤️ Interests & Beyond
-- 🏋️‍♂️ **Sports:** Keeping the body as active as the brain.
-- 🔥 **Pokémon:** Card collector & strategist.
-- ☕ **Coffee:** Powered by way too many espressos.
-- 📚 **Comics:** Exploring visual storytelling.
-
----
-
-### 🚀 GitHub Roadmap
-- [ ] Build out a repository of clean, professional, and well-documented projects.
-- [ ] Transition into advanced **Data Science & AI** implementations.
-- [ ] Document my daily learning journey to help others in the community.
+<p align="center">
+  🔨 <a href="https://n8docs.com"><b>n8docs</b></a> — AI-agnostic documentation extension · open-source coming soon
+</p>
