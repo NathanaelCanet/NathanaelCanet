@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/nathanaelcanet">
     <img src="https://img.shields.io/badge/LinkedIn-FFB3BA?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:contact@ncanet.dev">
     <img src="https://img.shields.io/badge/Email-FFDFBA?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
