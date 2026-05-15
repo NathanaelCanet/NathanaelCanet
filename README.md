@@ -22,12 +22,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/3rd%20Year%20Bachelor-FFB3BA?style=flat-square" />
   <img src="https://img.shields.io/badge/Next-Master's%20in%20Data%20%26%20AI-D4A5E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Motto-Learn.%20Break.%20Rebuild.-BAFFC9?style=flat-square" />
 </p>
 
-<p align="center">
-  <i>💡 "The best way to predict the future is to invent it." — Alan Kay</i>
-</p>
 
 <br />
 
@@ -65,8 +61,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanaelCanet&show_icons=true&hide_border=true&title_color=D4A5E8&icon_color=FFB3BA&text_color=6B5B73&bg_color=FFF5F7" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelCanet&layout=compact&hide_border=true&title_color=D4A5E8&text_color=6B5B73&bg_color=FFF5F7" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanaelCanet&theme=flat&no-frame=true&column=6&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelCanet&bg_color=FFF5F7&color=D4A5E8&line=FFB3BA&point=6B5B73&hide_border=true" />
 </p>
 
 <br />
