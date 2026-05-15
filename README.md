@@ -90,3 +90,11 @@
 <p align="center">
   🔨 <a href="https://n8docs.com"><b>n8docs</b></a> — AI-agnostic documentation extension · open-source coming soon
 </p>
+
+<br />
+
+<h2 align="center">🔭 Next Project</h2>
+
+<p align="center">
+  🏠 <b>Home Server</b> — self-hosted NAS · Plex media server · private GitHub · the whole shebang
+</p>
