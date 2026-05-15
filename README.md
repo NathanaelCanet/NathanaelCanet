@@ -56,17 +56,6 @@
   <img src="https://img.shields.io/badge/Git-FFB3BA?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br />
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanaelCanet&theme=flat&no-frame=true&column=6&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanaelCanet&bg_color=FFF5F7&color=D4A5E8&line=FFB3BA&point=6B5B73&hide_border=true" />
-</p>
 
 <br />
 
@@ -86,26 +75,9 @@
         <sub>Passport stamps & street food memories</sub>
       </td>
       <td width="33%" align="center">
-        <h3>🍳</h3>
-        <b>Cooking</b><br />
-        <sub>Recipes are just programs you can eat 🤌</sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <h3>🎬</h3>
-        <b>Movies & Series</b><br />
-        <sub>Probably watching something right now</sub>
-      </td>
-      <td width="33%" align="center">
         <h3>📚</h3>
         <b>Comics</b><br />
         <sub>Marvel, DC, and the indie scene 🦸‍♂️</sub>
-      </td>
-      <td width="33%" align="center">
-        <h3>☕</h3>
-        <b>Espresso Addict</b><br />
-        <sub>Running on caffeine since semester 1</sub>
       </td>
     </tr>
   </table>
