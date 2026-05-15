@@ -65,8 +65,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathanaelcanet&show_icons=true&hide_border=true&title_color=D4A5E8&icon_color=FFB3BA&text_color=6B5B73&bg_color=FFF5F7" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaelcanet&layout=compact&hide_border=true&title_color=D4A5E8&text_color=6B5B73&bg_color=FFF5F7" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanaelCanet&show_icons=true&hide_border=true&title_color=D4A5E8&icon_color=FFB3BA&text_color=6B5B73&bg_color=FFF5F7" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelCanet&layout=compact&hide_border=true&title_color=D4A5E8&text_color=6B5B73&bg_color=FFF5F7" height="170" />
 </p>
 
 <br />
